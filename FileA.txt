@@ -2,3 +2,4 @@ This is FileA
 There is a new Change on FileA
 New change for tag
 New change for fetch
+Git Command change
